@@ -1,0 +1,27 @@
+body {
+    padding: 10px; 
+}
+
+.legend {
+    font-size: 20pt;
+    width: 150px;
+    height: 200px;
+    text-align: center;
+    background-color: white;
+}
+
+.color1 {
+    font-size: 30pt;  
+    background-color: #9EFFB6;
+}
+
+.color2 {
+    font-size: 30pt;  
+    background-color: #47B2A9;
+}
+
+.color3 {
+    font-size: 30pt;  
+    background-color: #417271;
+    color: white;
+}
